@@ -1,13 +1,21 @@
-var myApp = angular.module('myApp', ['ngRoute']); 
+var app = angular.module('app',['ngRoute']);
 
-myApp.config(['$routeProvider', function($routeProvider) {
+app.config(['$routeProvider', function($routeProvider) {
+  $routeProvider
+    .when('/home', {
+      templateUrl: './pages/Home/homeView.html',
+      controller: 'AppController'
+    })
+   
+    .otherwise({
+      redirectTo: '/home'
+    });
+
 }]);
 
-myApp.directive('randomPerson',['$http', function($http) { 
 
-}])
 
-myApp.controller('AppController',['$scope', '$http', function($scope, $http) {
-
-        
+app.controller('AppController',['$scope', function($scope) {
+  $scope.test = 1;
 }]);
+
