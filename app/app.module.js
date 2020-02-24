@@ -1,21 +1,16 @@
-var app = angular.module('app',['ngRoute']);
+angular.module('app', []);
 
-app.config(['$routeProvider', function($routeProvider) {
-  $routeProvider
-    .when('/home', {
-      templateUrl: './pages/Home/homeView.html',
-      controller: 'AppController'
-    })
-   
-    .otherwise({
-      redirectTo: '/home'
-    });
+// app.config(['$routeProvider', function($routeProvider) {
+//   $routeProvider
+//     .when('/home', {
+//       templateUrl: './pages/Home/homeView.htmlgit ',
+//       controller: 'AppController'
+//     })
+//     .otherwise({
+//       redirectTo: '/home'
+//     });
 
-}]);
-
+// }]);
 
 
-app.controller('AppController',['$scope', function($scope) {
-  $scope.test = 1;
-}]);
 
