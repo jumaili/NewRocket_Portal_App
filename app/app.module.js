@@ -22,6 +22,6 @@ app.config(['$routeProvider', function($routeProvider) {
 }]);
 
 app.controller('AppController',['$scope', function($scope) {
-  $scope.test = 1;
+  $scope.test = "Test";
 }]);
 
