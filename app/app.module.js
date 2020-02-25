@@ -3,7 +3,7 @@ var app = angular.module('app',['ngRoute', 'home']);
 app.config(['$routeProvider', function($routeProvider) {
   $routeProvider
     .when("/home", {
-      template: "<home></home>",
+      template: "<home-component></home-component>",
     })
    
     .otherwise('/home');
