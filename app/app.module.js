@@ -1,19 +1,14 @@
-var app = angular.module('app',['ngRoute']);
+var app = angular.module('app',['ngRoute', 'home']);
 
 app.config(['$routeProvider', function($routeProvider) {
   $routeProvider
-    .when('/home', {
-      templateUrl: './pages/Home/homeView.html',
-      controller: 'AppController'
+    .when("/home", {
+      template: "<home></home>",
     })
    
-    .otherwise({
-      redirectTo: '/home'
-    });
+    .otherwise('/home');
 
 }]);
-
-
 
 app.controller('AppController',['$scope', function($scope) {
   $scope.test = 1;
