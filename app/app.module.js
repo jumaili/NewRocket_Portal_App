@@ -1,4 +1,15 @@
-var app = angular.module('app',['ngRoute', 'home']);
+var app = angular.module('app',[
+  'ngRoute',
+  'home',
+  'header',
+  'navbar',
+  // 'searchHome',
+  // 'services',
+  // 'new',
+  // 'tickets',
+  // 'help',
+  // 'footer'
+]);
 
 app.config(['$routeProvider', function($routeProvider) {
   $routeProvider
