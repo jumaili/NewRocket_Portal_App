@@ -5,6 +5,7 @@ angular.module('navbar').component('navbarComponent', {
   templateUrl: './shared/Navbar/navbarView.html',
   controller: function($scope) {
     $scope.message = "NavBar";
+
   }
 });
 

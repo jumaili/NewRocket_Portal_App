@@ -3,12 +3,12 @@ var app = angular.module('app',[
   'home',
   'header',
   'navbar',
-  // 'searchHome',
-  // 'services',
-  // 'new',
-  // 'tickets',
-  // 'help',
-  // 'footer'
+  'searchHome',
+  'services',
+  'news',
+  'tickets',
+  'help',
+  'footer'
 ]);
 
 app.config(['$routeProvider', function($routeProvider) {

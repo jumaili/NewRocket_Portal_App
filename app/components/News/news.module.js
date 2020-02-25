@@ -1,10 +1,10 @@
-angular.module('home',[]);
+angular.module('news',[]);
 
 // this is to create a custom directive, and we use camelCase in the js file while it'll be a snake case in the html
-angular.module('home').component('homeComponent', {
-  templateUrl: './pages/Home/homeView.html',
+angular.module('news').component('newsComponent', {
+  templateUrl: './components/News/newsView.html',
   controller: function($scope) {
-    $scope.message = "Home Page";
+    $scope.message = "News";
   }
 });
 
