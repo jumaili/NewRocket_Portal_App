@@ -1,0 +1,17 @@
+#searchHomeContainer {
+  background: url('../../assets/img/background.jpg') ;
+  background-size: cover;
+  background-position: center;
+
+  height: 600px;
+}
+
+.center {
+  margin: 0 auto;
+  position: relative;
+}
+
+.searchTextContainer {
+
+  
+}

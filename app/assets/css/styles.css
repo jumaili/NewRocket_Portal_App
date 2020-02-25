@@ -11,6 +11,8 @@ html {
     margin: 0;
     padding: 0;
     font-weight: normal;
+    margin-right: auto;
+    margin-left:  auto;
   }
 
   .bodyClass {
@@ -26,3 +28,8 @@ html {
     max-width: 100%;
     height: auto;
   }
+
+  .no-gutter > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+}
