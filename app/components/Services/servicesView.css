@@ -1,16 +1,17 @@
-.services-view {
+.services-container {
   background-color: #ffffff;
   padding: 30px;
+  margin: 25px auto;
 }
 
-.test {
-  background-color: grey;
-  margin-bottom: 0;
-  padding: 0;
+
+
+.service-button {
+  height: 160px;
+  opacity: 1;
 }
 
 .service-label {
-  align-items: stretch;
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
 }

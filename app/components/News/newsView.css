@@ -1,0 +1,15 @@
+.newsContainer {
+  margin: 25px auto;
+  padding: 0;
+}
+
+.newsHeader {
+  border-bottom: 5px solid orange;
+  margin-right: 0;
+}
+
+.testing {
+  background-color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+}
