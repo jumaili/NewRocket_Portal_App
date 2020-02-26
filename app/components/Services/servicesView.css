@@ -1,14 +1,28 @@
 .services-container {
-  background-color: #ffffff;
-  padding: 30px;
+  background-color: #fff;
   margin: 25px auto;
+  padding: 30px;
 }
 
 .service-button {
-  height: 160px;
+  background-color: #fdfdfd;
+  height: 120px;
+  margin-bottom: 0;
   opacity: 1;
+}
+
+.service-desc {
+  font-size: 0.75rem;
+}
+
+.service-image {
+  height: 70px;
+  padding: 10px;
+  width: 70px;
 }
 
 .service-label {
   display: flex;
+  font-size: 1.4rem;
+  line-height: 1;
 }

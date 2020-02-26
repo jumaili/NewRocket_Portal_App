@@ -1,15 +1,28 @@
 .newsContainer {
   margin: 25px auto;
+  padding: 30px;
+  background-color: #ffffff;
+}
+
+.orangeLine {
+  border-bottom: 5px solid #ff7300;
+}
+
+.newsTime {
+  font-size: .75em;
+  margin-top: 1em;
+}
+
+.newsBody {
+  margin: 1em 0;
+}
+
+.panel-heading.noborder,
+.noborder {
+  border: none;
+  box-shadow: none;
+  background-color: #ffffff;
   padding: 0;
 }
 
-.newsHeader {
-  border-bottom: 5px solid orange;
-  margin-right: 0;
-}
 
-.testing {
-  background-color: white;
-  padding-left: 20px;
-  padding-right: 20px;
-}

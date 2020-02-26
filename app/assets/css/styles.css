@@ -1,37 +1,37 @@
 html {
-    box-sizing: border-box;
-    font-size: 16px;
-  }
-  
-  *, *:before, *:after {
-    box-sizing: inherit;
-  }
-  
-  body, h1, h2, h3, h4, h5, h6, p, ol, ul {
-    margin: 0;
-    padding: 0;
-    font-weight: normal;
-    margin-right: auto;
-    margin-left:  auto;
-  }
+  box-sizing: border-box;
+  font-size: 16px;
+}
 
-  .bodyClass {
-    background-color:#eeeeee;
-    font-family: "Kanit";
-  }
-  
-  ol, ul {
-    list-style: none;
-  }
-  
-  img {
-    max-width: 100%;
-    height: auto;
-  }
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  font-weight: normal;
+  margin-left: auto;
+  margin-right: auto;
+  margin: 0;
+  padding: 0;
+}
+
+.bodyClass {
+  background-color:#eeeeee;
+  font-family: "Kanit";
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 .no-gutter > [class*='col-'] {
-    padding-right:0;
-    padding-left:0;
+  padding-left: 0;
+  padding-right: 0;
 }
 
 .container {
