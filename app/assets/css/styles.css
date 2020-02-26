@@ -33,3 +33,7 @@ html {
     padding-right:0;
     padding-left:0;
 }
+
+.container {
+  width: 1400px;
+}
