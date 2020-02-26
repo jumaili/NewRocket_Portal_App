@@ -1,7 +1,11 @@
 #header {
-  background-color: #ffffff;
   border-bottom: none;
   font-size: 1rem;
+  background-color: #ffffff;
+}
+
+.headerContainer {
+  background-color: #ffffff;
 }
 
 .numberIcon {
