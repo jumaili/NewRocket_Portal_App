@@ -5,7 +5,5 @@ angular.module('help').component('helpComponent', {
   templateUrl: './components/Help/helpView.html',
   controller: function($scope) {
     $scope.message = "Help";
-
   }
 });
-

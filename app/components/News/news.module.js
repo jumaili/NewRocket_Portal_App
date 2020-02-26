@@ -7,4 +7,3 @@ angular.module('news').component('newsComponent', {
     $scope.message = "News";
   }
 });
-

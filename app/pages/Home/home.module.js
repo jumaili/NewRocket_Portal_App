@@ -7,4 +7,3 @@ angular.module('home').component('homeComponent', {
     $scope.message = "Home Page";
   }
 });
-

@@ -7,4 +7,3 @@ angular.module('searchHome').component('searchHomeComponent', {
     $scope.message = "Search Home";
   }
 });
-

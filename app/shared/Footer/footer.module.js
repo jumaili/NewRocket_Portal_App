@@ -5,7 +5,5 @@ angular.module('footer').component('footerComponent', {
   templateUrl: './shared/Footer/footerView.html',
   controller: function($scope) {
     $scope.message = "Footer";
-
   }
 });
-

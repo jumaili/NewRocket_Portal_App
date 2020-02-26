@@ -7,4 +7,3 @@ angular.module('header').component('headerComponent', {
     $scope.message = "Header";
   }
 });
-
