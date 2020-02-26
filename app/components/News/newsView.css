@@ -6,6 +6,12 @@
 
 .orangeLine {
   border-bottom: 5px solid #ff7300;
+  margin: .75em 0;
+}
+
+.bottom-border {
+  margin: 1.25em 0;
+  border-bottom: 2px solid #eeeeee; 
 }
 
 .newsTime {
@@ -14,7 +20,11 @@
 }
 
 .newsBody {
-  margin: 1em 0;
+  margin: .75em 0;
+}
+
+.newsHeading {
+  margin: .75em 0;
 }
 
 .panel-heading.noborder,
