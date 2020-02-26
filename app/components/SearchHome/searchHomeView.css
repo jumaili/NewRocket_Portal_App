@@ -1,8 +1,6 @@
-#searchHomeContainer {
+.container-fuild {
   background: url('../../assets/img/background.jpg') ;
   background-size: cover;
   background-position: center;
-
-  width: 100%;
 }
 
