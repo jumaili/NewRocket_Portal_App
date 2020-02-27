@@ -1,0 +1,17 @@
+.feedback {
+  background-color: #3a3f52;
+  color: white;
+  margin-right: 1em;
+  width: 100px;
+}
+
+.feedback-icon {
+  color: white;
+  margin: .5em;
+}
+
+@media only screen and (max-width: 768px) {
+  .navbar-fixed-bottom {
+    position: inherit;
+  }
+}
