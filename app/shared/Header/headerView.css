@@ -5,6 +5,18 @@
   margin-bottom: 0;
 }
 
+#header-logo {
+  height: auto;
+}
+
+#logo {
+  height: 75px;
+}
+
+#nav-pad {
+  padding: 20px 0;
+}
+
 .headerContainer {
   background-color: #ffffff;
 }

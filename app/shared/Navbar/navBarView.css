@@ -1,5 +1,14 @@
 #navbarBackground {
   background-color: rgba(255, 255, 255, 0.75);
   border-top: none;
+  font-size: 1rem;
   margin-bottom: 0px;
+}
+
+#search {
+  height: 12px;
+}
+
+.pad {
+  padding: 0;
 }

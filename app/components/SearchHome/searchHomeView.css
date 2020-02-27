@@ -1,3 +1,9 @@
+#form {
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 36px;
+}
+
 #searchHomeContainer {
   background: url('../../assets/img/background.jpg');
   padding: 0;
@@ -12,7 +18,7 @@
 
 .title-bottom {
   font-size: 4.5rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .title-top {
