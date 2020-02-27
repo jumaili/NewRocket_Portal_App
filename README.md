@@ -5,7 +5,7 @@ Bootstrap 3 and Angular.js and making sure it is responsive on different viewpor
 
 ## Instructions to run the app
 
-### Make sure you have these Dependencies 
+### Make sure you have these dependencies 
 - Make sure to install [Git](https://git-scm.com/download) first. 
 - Then install [Node.js](https://nodejs.org/en/download/current/) within the terminal.
 - Next, install [http-server](https://www.npmjs.com/package/http-server) in the terminal.
@@ -34,5 +34,5 @@ Next, if you have npm and http-server installed globally in your machine, you'll
 http-server -o
 ```
 
-Then it will automatically open your preffered browser and the AngularJS app is running!
+Then it will automatically open your preferred browser and the AngularJS app is running!
 Please look at it's responsiveness and let me know what improvements to make! :grin:
