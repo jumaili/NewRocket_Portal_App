@@ -8,7 +8,7 @@ html {
 }
 
 body, h1, h2, h3, h4, h5, h6, p, ol, ul {
-  font-weight: normal;
+  font-weight: 600;
   margin-left: auto;
   margin-right: auto;
   margin: 0;
@@ -32,6 +32,5 @@ img {
 .bodyClass {
   background-color:#eeeeee;
   font-family: "Source Sans Pro";
-  font-weight: 600;
 }
  
