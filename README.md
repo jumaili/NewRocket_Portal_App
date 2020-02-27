@@ -10,7 +10,7 @@ Bootstrap 3 and Angular.js and making sure it is responsive on different viewpor
 - Then install [Node.js](https://nodejs.org/en/download/current/) within the terminal.
 - Next, install [http-server](https://www.npmjs.com/package/http-server) in the terminal next.
 
-### Downloading the repository:
+### Downloading the repository
 
 Once you have the dependencies above, in the terminal run this command in a directory that you want this project to be in
 ``` bash
