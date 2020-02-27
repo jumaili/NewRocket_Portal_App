@@ -2,27 +2,12 @@
   <h4>MY IT TICKETS </h4>
   <div class="orangeLine"><!-- the orange  line --></div>
 
-  <div class="panel panel-default noborder">
-    <p class="panel-heading noborder ticketHeading">Engineering Laptop - HP ZBook 17 G3 Bundle</p>
+  <div ng-repeat="ticket in ticketsData" class="panel panel-default noborder">
+    <p class="panel-heading noborder ticketHeading">{{ticket.ticketIssue}}</p>
     <div class="panel-body noborder ticketTime"> 
-      <span>REQ0078372 • 13hr ago</span>
+      <span>{{ticket.ticketId}} • {{ticket.timeValue}}{{ticket.timeType}} ago</span>
     </div>          
     <div class="bottom-border-lightgrey"></div> 
-  </div>
-
-  <div class="panel panel-default noborder">
-    <p class="panel-heading noborder ticketHeading">Engineering Laptop - HP ZBook 17 G3 Bundle</p>
-    <div class="panel-body noborder ticketTime"> 
-      <span>REQ0078371 • 7d ago</span>
-    </div>          
-    <div class="bottom-border-lightgrey"></div> 
-  </div>
-
-  <div class="panel panel-default noborder">
-    <p class="panel-heading noborder ticketHeading">3 requested items</p>
-    <div class="panel-body noborder ticketTime"> 
-      <span>REQ007833 • 17d ago</span>
-    </div>          
   </div>
 
 

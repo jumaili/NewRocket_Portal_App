@@ -1,0 +1,19 @@
+[{
+  "ticketIssue": "Engineering Laptop - HP ZBook 17 G3 Bundle",
+  "ticketId": "REQ0078372",
+  "timeValue": "13",
+  "timeType" : "h"
+},
+{
+  "ticketIssue": "Engineering Laptop - HP ZBook 17 G3 Bundle",
+  "ticketId": "REQ0078371",
+  "timeValue": "7",
+  "timeType" : "d"
+},
+{
+  "ticketIssue": "3 requested items",
+  "ticketId": "REQ007833",
+  "timeValue": "17",
+  "timeType" : "d"
+}
+]
