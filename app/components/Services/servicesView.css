@@ -1,3 +1,7 @@
+#procurement-services-title {
+  padding-top: 4px;
+}
+
 .services-container {
   background-color: #fff;
   margin: 25px auto;
@@ -16,13 +20,55 @@
 }
 
 .service-image {
-  height: 70px;
-  padding: 10px;
-  width: 70px;
+  height: 48px;
+  padding: 4px;
+  width: 48px;
 }
 
 .service-label {
   display: flex;
   font-size: 1.4rem;
   line-height: 1;
+}
+
+.service-title {
+  line-height: 48px;
+}
+
+@media only screen and (max-width: 1199px) {
+  .service-image {
+    height: 32px;
+    padding: 2px;
+    width: 32px;
+  }
+
+  .service-label {
+    font-size: 1rem;
+  }
+
+  .service-title {
+    line-height: 32px;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  .service-image {
+    height: 48px;
+    padding: 4px;
+    width: 48px;
+  }
+
+  .service-label {
+    font-size: 1.4rem;
+  }
+
+  .service-title {
+    line-height: 48px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  #procurement-services-title {
+    padding-top: 8px;
+  }
 }

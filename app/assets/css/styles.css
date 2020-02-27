@@ -17,7 +17,7 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
 
 .bodyClass {
   background-color:#eeeeee;
-  font-family: "Kanit";
+  font-family: "Source Sans Pro";
 }
 
 ol, ul {
@@ -32,8 +32,4 @@ img {
 .no-gutter > [class*='col-'] {
   padding-left: 0;
   padding-right: 0;
-}
-
-.container {
-  width: 1400px;
 }
