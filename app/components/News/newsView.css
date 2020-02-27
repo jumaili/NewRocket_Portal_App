@@ -27,6 +27,10 @@
   margin: .75em 0;
 }
 
+.orange {
+  color: #ff7300;
+}
+
 .panel-heading.noborderWhite,
 .noborderWhite {
   border: none;
@@ -35,4 +39,6 @@
   background-color: #ffffff;
 }
 
-
+.shift-right {
+  margin-right: .5em;
+}

@@ -7,13 +7,21 @@
 #searchHomeContainer {
   background: url('../../assets/img/background.jpg');
   padding: 0;
-  background-position: center; 
-  background-repeat: no-repeat; 
-  background-size: cover; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #searchBox {
   margin: 8% 0;
+}
+
+#search-btn {
+  border-left: none;
+}
+
+#search-text {
+  height: 48px;
 }
 
 .title-bottom {
