@@ -12,7 +12,7 @@ Bootstrap 3 and Angular.js and making sure it is responsive on different viewpor
 
 ### Downloading the repository:
 
-Once you have the dependencies above, in the terminal run this command in a directory that you want this project to ho in
+Once you have the dependencies above, in the terminal run this command in a directory that you want this project to go in.
 ``` bash
 git clone https://github.com/adclleva/NewRocket_Portal_App.git
 ```
