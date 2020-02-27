@@ -10,16 +10,16 @@ Bootstrap 3 and Angular.js and making sure it is responsive on different viewpor
 
 Here are some links of the application running in different viewports:
 
-This is between 4k screens to to Large Laptop Screens 1440px
+This is between 4k screens to to Large Laptop Screens 1440px:
 ![](4k-screens-to-Large-Laptop.gif)
 
-This is between Normal Laptop Screens 1024px to to Tablet Screens 768px
+This is between Normal Laptop Screens 1024px to to Tablet Screens 768px:
 ![](Normal-Laptop-to-Tablet-Screens.gif)
 
-This is between Large Mobile Screens 425px to to Medium Screens 375px
+This is between Large Mobile Screens 425px to to Medium Screens 375px:
 ![](Medium-Screens-Large-Mobile.gif)
 
-This is for Small Mobile Screens 320px
+This is for Small Mobile Screens 320px:
 ![](Small-Mobile-Screens.gif)
 
 ## Instructions to run the app
