@@ -35,4 +35,4 @@ http-server -o
 ```
 
 Then it will automatically open your preffered browser and the AngularJS app is running!
-Please look at it's responsiveness and let me know what improvements to make! :)
+Please look at it's responsiveness and let me know what improvements to make! :grin:
