@@ -9,7 +9,7 @@
   margin: .75em 0;
 }
 
-.bottom-border {
+.bottom-border-grey {
   margin: 1.25em 0;
   border-bottom: 2px solid #eeeeee; 
 }
@@ -27,12 +27,12 @@
   margin: .75em 0;
 }
 
-.panel-heading.noborder,
-.noborder {
+.panel-heading.noborderWhite,
+.noborderWhite {
   border: none;
   box-shadow: none;
-  background-color: #ffffff;
   padding: 0;
+  background-color: #ffffff;
 }
 
 

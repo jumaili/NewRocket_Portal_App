@@ -1,0 +1,28 @@
+.ticketsContainer {
+  margin: 25px auto;
+}
+
+.ticketHeading {
+  margin: .25em 0;
+}
+
+.ticketTime {
+  font-size: .75em;
+}
+
+.panel-heading.noborder,
+.noborder {
+  border: none;
+  box-shadow: none;
+  padding: 0;
+  background-color: rgba(238, 238, 238, 0);
+}
+
+.bottom-border-lightgrey {
+  margin: .5em 0;
+  border-bottom: .1em solid lightgrey; 
+}
+
+.panel {
+  margin-bottom: 0;
+}
