@@ -6,9 +6,9 @@ Bootstrap 3 and Angular.js and making sure it is responsive on different viewpor
 ## Instructions to run the app
 
 ### Make sure you have these Dependencies 
-Make sure to install [Git](https://git-scm.com/download) first. 
-Then install [Node.js](https://nodejs.org/en/download/current/) within the terminal.
-Next, install [http-server](https://www.npmjs.com/package/http-server) in ther terminal.
+- Make sure to install [Git](https://git-scm.com/download) first. 
+- Then install [Node.js](https://nodejs.org/en/download/current/) within the terminal.
+- Next, install [http-server](https://www.npmjs.com/package/http-server) in the terminal.
 
 ### Downloading the repository:
 
