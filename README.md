@@ -24,7 +24,7 @@ Make sure you go to the directory where the NewRocket_Portal_App is located in t
 cd NewRocket_Portal_App
 ```
 
-Then once inside the directory, you go into the app directory through the command line.
+Then once inside the /NewRocket_Portal_App directory, you go into the app directory through the command line.
 ``` bash
 cd app
 ```
