@@ -6,19 +6,13 @@ Bootstrap 3 and Angular.js and making sure it is responsive on different viewpor
 ## Instructions to run the app
 
 ### Make sure you have these Dependencies 
-Install [Node.js](https://nodejs.org/en/download/current/) within the terminal and then install [http-server](https://www.npmjs.com/package/http-server) in ther terminal next.
-
-### Install Git
-
-You can download and install Git from [https://git-scm.com/download](https://git-scm.com/download). Once installed, you should have access to the git command line tool. The main commands that you will need to use are:
-
-- git clone ...: Clone a remote repository onto your local machine.
-- git checkout ...: Check out a particular branch or a tagged version of the code to hack on.
-
+Make sure to install [Git](https://git-scm.com/download) first. 
+Then install [Node.js](https://nodejs.org/en/download/current/) within the terminal.
+Next, install [http-server](https://www.npmjs.com/package/http-server) in ther terminal next.
 
 ### Downloading the repository:
 
-In ther terminal run this command in a directory that you want this project to ho in
+Once you have the dependencies above, in the terminal run this command in a directory that you want this project to ho in
 ``` bash
 git clone https://github.com/adclleva/NewRocket_Portal_App.git
 ```
