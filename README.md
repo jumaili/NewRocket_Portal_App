@@ -1,4 +1,4 @@
-# NewRocket Portal App
+# NewRocket Portal Test App
 
 The purpose of this app is to build out a page based on a mock-up using valid HTML5, CSS, and JavaScript through mostly
 Bootstrap 3 and Angular.js and making sure it is responsive on different viewports.
