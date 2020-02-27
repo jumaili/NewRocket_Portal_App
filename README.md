@@ -36,3 +36,15 @@ http-server -o
 
 Then it will automatically open your preferred browser and the AngularJS app is running!
 Please look at its responsiveness and let me know what improvements to make! :grin:
+
+### Demonstration
+
+Here are some links of the application running in different viewports:
+
+This is between [4k screens to to Large Laptop Screens 1440px](https://gyazo.com/c018018442fdf65b1bd4a18ed6d93efc)
+
+This is between [Normal Laptop Screens 1024px to to Tablet Screens 768px](https://gyazo.com/e420e373fdd8ac8261eb549f9b3f3dd0)
+
+This is between [Large Mobile Screens 425px to to Medium Screens 375px](https://gyazo.com/5cf66431170551b582d965769fbf07a4)
+
+This is for [Small Mobile Screens 320px](https://gyazo.com/38c4b0009df77e975da05691754cdc77)
