@@ -16,17 +16,11 @@
     <link href="./components/Help/helpView.css" rel="stylesheet" type="text/css" />
     <link href="./shared/Footer/footerView.css" rel="stylesheet" type="text/css" />
 
-    <!-- JQUERY 3 -->
-    <script
-    src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-    integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
-    crossorigin="anonymous">
-    </script>
     
     <!-- Font Awesome CDN -->
     <script src="https://kit.fontawesome.com/9203c266ad.js" crossorigin="anonymous"></script>
 
-    <!-- Latest compiled and minified JavaScript Bootstrap 3 -->
+    <!-- Latest compiled and minified JavaScript -->
     <script src="assets/lib/jquery/dist/jquery.js"></script>
     <script src="assets/lib/angular/angular.js"></script>
     <script src="assets/lib/angular-animate/angular-animate.js"></script>
@@ -46,6 +40,8 @@
   </head>
 
   <body class="bodyClass">
+    <!-- the route will default to the /home and will take us to the home-component
+         in this case, it'' be the homeView.html file' -->
     <div ng-view></div>
   </body>
 </html>
